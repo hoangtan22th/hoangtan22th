@@ -25,10 +25,8 @@ I'm a passionate **Information Technology Student** from Vietnam with a focus on
 Here are a couple of projects I've worked on:
 
 * ✈️ **[Nhom08_FlightApp](https://github.com/hoangtan22th/Nhom08_FlightApp)**
-    * A mobile application for booking flights. (Bạn có thể thêm mô tả chi tiết hơn ở đây)
+    * A mobile application for booking flights.
 * 🧠 **[SomeOtherProject](https://github.com/hoangtan22th/SomeOtherProject)**
-    * (Add a brief description of your project here!)
-
 ---
 
 ### 📫 How to Reach Me
