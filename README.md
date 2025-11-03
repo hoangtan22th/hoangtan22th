@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hello, I'm Nguyễn Hoàng Tấn!
 
-<!--
-**hoangtan22th/hoangtan22th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a passionate **Information Technology Student** from Vietnam with a focus on software development. I enjoy building applications, solving problems, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+
+(This card dynamically shows the languages from your public repositories)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtan22th&layout=compact&theme=tokyonight)
+
+---
+
+### 📊 My GitHub Stats
+
+![Tấn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoangtan22th&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌱 Featured Projects
+
+Here are a couple of projects I've worked on:
+
+* ✈️ **[Nhom08_FlightApp](https://github.com/hoangtan22th/Nhom08_FlightApp)**
+    * A mobile application for booking flights. (Bạn có thể thêm mô tả chi tiết hơn ở đây)
+* 🧠 **[SomeOtherProject](https://github.com/hoangtan22th/SomeOtherProject)**
+    * (Add a brief description of your project here!)
+
+---
+
+### 📫 How to Reach Me
+
+You can find me on:
+
+<p align="left">
+  <a href="mailto:hoangtan22th@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  
+  </p>
