@@ -1,10 +1,8 @@
 <div align="center">
-  <!-- Header với gradient xanh tím -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082,00BFFF&height=280&section=header&text=Nguyen%20Hoang%20Tan&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Java%20&%20React%20Ecosystem&descSize=20&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,00BFFF&height=280&section=header&text=Nguyen%20Hoang%20Tan&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Java%20&%20React%20Ecosystem&descSize=20&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
-  <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=A965F8&center=true&vCenter=true&width=600&lines=I+build+Scalable+Backend+Systems;I+create+Modern+Frontend+UI;Java+Spring+Boot+%2B+React+Native;Always+learning+New+Technologies..." alt="Typing SVG" />
   </a>
@@ -32,6 +30,7 @@
 <h2 align="center">⚡ Tech Stack & Arsenal</h2>
 
 <div align="center">
+
 <table>
   <tr>
     <td align="center" width="120">
@@ -96,6 +95,7 @@
     </td>
   </tr>
 </table>
+
 </div>
 
 ---
@@ -146,21 +146,14 @@
 ---
 
 <h2 align="center">🏆 GitHub Trophies & Stats</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hoangtan22th&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</div>
-
 <br/>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangtan22th&show_icons=true&theme=radical&hide_border=true&bg_color=141321&count_private=true&hide_rank=true" height="220" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtan22th&layout=compact&theme=radical&hide_border=true&bg_color=141321" height="220" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangtan22th&show_icons=true&theme=radical&hide_border=true&bg_color=141321&count_private=true&hide_rank=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtan22th&layout=compact&theme=radical&hide_border=true&bg_color=141321" height="180" alt="languages graph" />
 </div>
 
 ---
 
 <div align="center">
-  <!-- Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,4B0082&height=150&section=footer"/>
 </div>
