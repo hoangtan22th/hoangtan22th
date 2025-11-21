@@ -1,5 +1,10 @@
+Ok, mình sẽ bổ sung nốt phần còn thiếu để bạn có một README hoàn chỉnh, đầy đủ từ đầu đến cuối. Đây là bản **final** bạn có thể copy nguyên khối:
+
+---
+
+```html
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,00BFFF&height=280&section=header&text=Nguyen%20Hoang%20Tan&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Java%20&%20React%20Ecosystem&descSize=20&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF4500,FFD700&height=280&section=header&text=Nguyen%20Hoang%20Tan&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Java%20&%20React%20Ecosystem&descSize=20&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
@@ -31,6 +36,7 @@
 
 <div align="center">
 
+<!-- Frontend -->
 <table>
   <tr>
     <td align="center" width="120">
@@ -49,6 +55,7 @@
   </tr>
 </table>
 
+<!-- Backend -->
 <table>
   <tr>
     <td align="center" width="120">
@@ -66,6 +73,7 @@
   </tr>
 </table>
 
+<!-- Database -->
 <table>
   <tr>
     <td align="center" width="120">
@@ -82,6 +90,7 @@
   </tr>
 </table>
 
+<!-- Arch & Tools -->
 <table>
   <tr>
     <td align="center" width="120">
@@ -114,52 +123,4 @@
 </p>
 
 ### 2️⃣ Ứng dụng đặt tour du lịch (Tour Booking)
-> **Nền tảng quản lý và đặt tour trực tuyến.**
-<p>
-  <img src="https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-</p>
-
-### 3️⃣ Quản lý đặt bàn nhà hàng
-> **Ứng dụng Desktop quản lý nghiệp vụ nhà hàng.**
-<p>
-  <img src="https://img.shields.io/badge/Java_Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server_(SSMS)-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-</p>
-
-### 4️⃣ E-commerce bán linh kiện
-> **Sàn thương mại điện tử đa nền tảng (Web & Mobile).**
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Trophies & Stats</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hoangtan22th&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangtan22th&show_icons=true&theme=radical&hide_border=true&bg_color=141321&count_private=true&hide_rank=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtan22th&layout=compact&theme=radical&hide_border=true&bg_color=141321" height="180" alt="languages graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,4B0082&height=150&section=footer"/>
-</div>
+> **Nền t
