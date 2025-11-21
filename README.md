@@ -42,9 +42,9 @@
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
       <br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+      <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+      <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+      <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     </td>
   </tr>
 </table>
@@ -55,7 +55,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/921/921513.png" width="55" style="padding-bottom:10px"/><br><b>Backend</b>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-2C2C2C?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -88,7 +88,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/8626/8626303.png" width="55" style="padding-bottom:10px"/><br><b>Arch & Tools</b>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GIT-151515?style=for-the-badge&logo=git&logoColor=E44C30"/>
       <img src="https://img.shields.io/badge/UML_Design-FFB13B?style=for-the-badge&logo=uml&logoColor=white"/>
       <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=codio&logoColor=white"/>
       <img src="https://img.shields.io/badge/Design_Patterns-5C2D91?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -102,28 +102,46 @@
 
 <h2 align="center">💻 Dự án Nổi Bật</h2>
 
-### ✈️ Flight Booking App (Mobile & Backend)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+### 1️⃣ Ứng dụng đặt vé máy bay (Flight Booking)
+> **Hệ thống đặt vé toàn diện, kiến trúc Microservices.**
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+</p>
 
-> **Hệ thống đặt vé máy bay toàn diện với kiến trúc Microservice foundation.**
-* **Role:** Full-stack.
-* **Key Tech:** Spring Security, JWT, Spring Data JPA, React Native Paper.
-* **Highlights:** Tìm kiếm vé, quản lý chuyến bay, thanh toán giả lập, gửi OTP email.
+### 2️⃣ Ứng dụng đặt tour du lịch (Tour Booking)
+> **Nền tảng quản lý và đặt tour trực tuyến.**
+<p>
+  <img src="https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+</p>
 
-### 🏨 Hotel Booking Web
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+### 3️⃣ Quản lý đặt bàn nhà hàng
+> **Ứng dụng Desktop quản lý nghiệp vụ nhà hàng.**
+<p>
+  <img src="https://img.shields.io/badge/Java_Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server_(SSMS)-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+</p>
 
-> **Web quản lý khách sạn tối ưu hiệu năng cao.**
-* **Role:** Backend.
-* **Key Tech:** Caching Strategy (Redis), Authentication, Complex Queries.
-* **Highlights:** Quản lý phòng, tối ưu truy vấn dữ liệu lớn.
-
-### 📦 Mini E-commerce
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
-
-> **Trang thương mại điện tử giao diện hiện đại.**
-* **Role:** Frontend.
-* **Highlights:** Giỏ hàng, Search filter, UI chuẩn UX/UI, Responsive.
+### 4️⃣ E-commerce bán linh kiện
+> **Sàn thương mại điện tử đa nền tảng (Web & Mobile).**
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+</p>
 
 ---
 
@@ -136,12 +154,4 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangtan22th&show_icons=true&theme=radical&hide_border=true&bg_color=141321&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtan22th&layout=compact&theme=radical&hide_border=true&bg_color=141321" height="180" alt="languages graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF00FF,8A2BE2&height=150&section=footer"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangtan22th&show_icons=true&theme=radical&hide_border=true&bg_color=141321&count_private=true&hide_rank=true" height="180
