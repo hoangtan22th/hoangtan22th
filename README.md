@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,FF00FF&height=280&section=header&text=Nguyen%20Hoang%20Tan&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Java%20&%20React%20Ecosystem&descSize=20&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5D3FD3,00FFFF&height=280&section=header&text=Nguyen%20Hoang%20Tan&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Java%20&%20React%20Ecosystem&descSize=20&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
@@ -42,9 +42,9 @@
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
       <br>
-      <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-      <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-      <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330"/>
     </td>
   </tr>
 </table>
@@ -55,7 +55,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/921/921513.png" width="55" style="padding-bottom:10px"/><br><b>Backend</b>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Java-2C2C2C?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -88,7 +88,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/8626/8626303.png" width="55" style="padding-bottom:10px"/><br><b>Arch & Tools</b>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/GIT-151515?style=for-the-badge&logo=git&logoColor=E44C30"/>
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/UML_Design-FFB13B?style=for-the-badge&logo=uml&logoColor=white"/>
       <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=codio&logoColor=white"/>
       <img src="https://img.shields.io/badge/Design_Patterns-5C2D91?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -161,5 +161,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF00FF,8A2BE2&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,5D3FD3&height=150&section=footer"/>
 </div>
